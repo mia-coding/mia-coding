@@ -1,5 +1,5 @@
 ~ hello, i’m mia!
 
-~ i’m currently learning java and trying to enrich my coding skills
+~ i’m currently learning java, html, and python, and trying to enrich my coding skills
 
-~ check out my sudoku and wordle java projects that i worked pretty hard on!!
+~ check out my chatbot, sudoku, and wordle projects that i worked pretty hard on!!
